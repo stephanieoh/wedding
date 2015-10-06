@@ -59,7 +59,7 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: #96B1CE;
 }
 
 .text-faded {
@@ -324,6 +324,8 @@ header .header-content .header-content-inner p {
     margin: 0 auto 20px;
 }
 
+}
+
 .text-primary {
     color: #96B1CE;
 }
@@ -348,9 +350,9 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-    border-color: #ededed;
+    border-color: #cad8e6;
     color: #222;
-    background-color: #f2f2f2;
+    background-color: #cad8e6;
 }
 
 .btn-default:active,
@@ -395,15 +397,15 @@ fieldset[disabled] .btn-default.active {
     transition: all .35s;
 }
 
-.btn-primary:hover,
+.btn-primary:hover
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #96B1CE;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #96B1CE;
 }
 
 .btn-primary:active,
